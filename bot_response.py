@@ -4,7 +4,7 @@ from dataset_preparing import chat_bow, stopword_
 from nltk import word_tokenize, pos_tag, ne_chunk
 from nltk import Tree
 
-translation_subscription_key = '58b126f10849407192c5ef634af5a996'
+translation_subscription_key = 'Microsoft Azure translation subscription key '
 dfs = pd.read_csv('Data\clean_data.csv', usecols=['NOM', 'contre indication', 'effet indesirable', 'précaution emploi', 'PPV', 'TAUX_REMBOURSEMENT'])
 
 
