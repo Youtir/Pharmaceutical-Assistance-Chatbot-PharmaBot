@@ -16,6 +16,7 @@ The conversational data on which the ChatBot relies on to respond to the user is
 https://github.com/Bhargava-Sai-P/Chatbot-using-nltk/blob/master/dialog_talk_agent.xlsx
 
 The main libraries and Frameworks used for this project are:
-- NLTK (Natural Language Toolkit).
-- Scikit-Learn.
-- Flask.
+- NLTK (Natural Language Toolkit) for tokenizing, chunking and extracting entities from the user input.
+- Scikit-Learn to perform word embedding bag of words model and count vectorizer model.
+- Flask to deploy the chatbot on facebook apps and messenger.
+- Ngrok For tunneling.
