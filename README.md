@@ -1,5 +1,5 @@
 # Pharmaceutical-Assistance-Chatbot-PharmaBot
-This Repository is dedicated to <Strong>PharmaBot</Strong>, a ChatBot that provides information about medicine mainly in Morocco.
+This Repository is dedicated to <Strong>PharmaBot</Strong>, a ChatBot that provides information about medication and medicine mainly in Morocco.
 
 It's a ChatBot interacting in English, based on Natural Language Processing (NLP), programmed in Python and deployed on Messenger.
 Its mission is to respond to the informational need of the user in the pharmaceutical field, <Strong>PharmaBot</Strong> can answers questions relating to medicines available mainly on the Moroccan market
